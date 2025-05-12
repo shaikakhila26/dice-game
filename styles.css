@@ -21,6 +21,14 @@ h1 {
   font-size: 5rem;
   color: #4ECCA3;
 }
+#hint{
+  font-size:1.5rem;
+  text-align:center;
+  color:rgb(170, 135, 60);
+}
+hr{
+  border-top: dotted rgb(22, 20, 21);
+}
 
 p {
   font-size: 2rem;
